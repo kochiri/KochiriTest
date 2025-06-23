@@ -1,9 +1,0 @@
-{
-  "name": "com.yourname.yourtool",
-  "displayName": "Your Tool",
-  "version": "1.0.0",
-  "unity": "2022.3",
-  "description": "ツールの説明",
-  "author": "YourName",
-  "vpmDependencies": {}
-}
