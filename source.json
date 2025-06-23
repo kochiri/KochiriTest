@@ -1,27 +1,19 @@
 {
-    "name": "Kochiri Tools Listing",
-    "id": "com.kochiri.mytool-listing",
-    "url": "https://kochiri.github.io/vpm-mytool/index.json",
-    "author": {
-        "email": "you@example.com",
-        "name": "Kochiri",
-        "url": "https://github.com/kochiri"
-    },
-    "description": "VRChat向けの便利ツール群",
-    "infoLink": {
-        "url": "https://github.com/kochiri/mytool-listing",
-        "text": "GitHubで見る"
-    },
-    "bannerUrl": "banner.png",
-    "githubRepos": [
-        "kochiri/vpm-mytool"
-    ],
-    "packages": [
-        {
-            "name": "com.kochiri.mytool",
-            "releases": [
-                "https://github.com/kochiri/vpm-mytool/blob/main/docs/mytool-1.0.0.zip"
-            ]
-        }
-    ]
+  "name": "Kochiri Listing",
+  "id": "com.kochiri.mylisting",
+  "url": "https://kochiri.github.io/mytool-listing/index.json",
+  "author": {
+    "name": "Kochiri",
+    "email": "example@example.com",
+    "url": "https://github.com/kochiri"
+  },
+  "description": "便利ツール",
+  "infoLink": {
+    "url": "https://github.com/kochiri/mytool-listing",
+    "text": "GitHubで見る"
+  },
+  "githubRepos": [
+    "kochiri/mytool"
+  ],
+  "packages": []
 }
