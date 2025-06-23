@@ -1,7 +1,7 @@
 {
     "name": "Kochiri Tools Listing",
     "id": "com.kochiri.mytool-listing",
-    "url": "https://kochiri.github.io/mytool-listing/index.json",
+    "url": "https://kochiri.github.io/vpm-mytool/index.json",
     "author": {
         "email": "you@example.com",
         "name": "Kochiri",
@@ -14,7 +14,7 @@
     },
     "bannerUrl": "banner.png",
     "githubRepos": [
-        "kochiri/mytool"
+        "kochiri/vpm-mytool"
     ],
     "packages": [
         {
