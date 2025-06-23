@@ -20,7 +20,7 @@
         {
             "name": "com.kochiri.mytool",
             "releases": [
-                "https://github.com/kochiri/mytool/releases/download/1.0.0/com.kochiri.mytool.zip"
+                "https://github.com/kochiri/vpm-mytool/blob/main/docs/mytool-1.0.0.zip"
             ]
         }
     ]
