@@ -9,11 +9,11 @@
   },
   "description": "便利ツール",
   "infoLink": {
-    "url": "https://github.com/kochiri/mytool-listing",
+    "url": "https://github.com/kochiri/KochiriTest",
     "text": "GitHubで見る"
   },
   "githubRepos": [
-    "kochiri/mytool"
+    "kochiri/vpm-mytool"
   ],
   "packages": []
 }
